@@ -351,6 +351,20 @@ header {
     transition: all 0.3s;
 }
 
+footer {
+    background-color: #528680;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    text-align: center;
+}
+
+footer p {
+    margin: 5px;
+    color: #ecd6d0;
+    font-size: 17px;
+    display: inline-block;
+}
 
 
 
